@@ -1,0 +1,26 @@
+
+data = [
+		{//1
+			"img": "./dist/img/example-1.png",
+			"title": "Замена союзки",
+			"link": "tel:+375444799445"
+		},
+		{//2
+			"img": "./dist/img/example-2.png",
+			"title": "Востановление",
+			"link": "tel:+375444799445"
+		},
+
+
+		{//3
+			"img": "./dist/img/example-3.png",
+			"title": "Перетяжка",
+			"link": "tel:+375444799445"
+		},
+	
+		{//4
+			"img": "./dist/img/example-4.png",
+			"title": "Замена союзки",
+			"link": "tel:+375444799445"
+		},
+]
