@@ -117,6 +117,10 @@ animation: animate_reduce 2s infinite;}
   border-radius: 16px;
 }
 
+.badge__more-reviews-link-wrap {
+	size: 0px;
+}
+
 @media screen and (max-width: 656px ) {
   .content {
     display: flex;
